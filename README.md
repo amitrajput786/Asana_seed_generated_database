@@ -117,7 +117,22 @@ Organization (Root)
 │               └── Task-Tags → Tags (M:N)
 ├── Tags
 └── Custom Field Definitions
+
 ```
+### Data Model Hierarchy
+
+The following diagram illustrates the relational structure of the generated Asana-like workspace, including entity dependencies and many-to-many relationships:
+
+
+::contentReference[oaicite:0]{index=0}
+
+
+> **Diagram source:**  
+> https://github.com/amitrajput786/Asana_seed_generated_database/blob/main/prompts/Untitled.png
+
+#### Textual Representation (for quick reference)
+
+
 
 ### Tables Summary
 
