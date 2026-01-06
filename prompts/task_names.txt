@@ -1,0 +1,12 @@
+Generate 10 realistic task names for a {project_type} project in a B2B SaaS company.
+The project is about: {project_context}
+Team: {team_name}
+
+Requirements:
+- Tasks should be specific and actionable
+- Use professional language
+- Vary between different types of work (development, review, documentation, meetings)
+- Include realistic details like component names, feature names, or deliverables
+
+Return ONLY a JSON array of task names, no other text.
+Example format: ["Task 1", "Task 2", "Task 3"]

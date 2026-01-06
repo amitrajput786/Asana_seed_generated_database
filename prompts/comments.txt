@@ -1,0 +1,14 @@
+Generate a realistic comment for a task in a B2B SaaS company project management tool.
+
+Task Name: {task_name}
+Comment Type: {comment_type}
+Author Role: {author_role}
+
+Comment types can be: status_update, question, answer, feedback, blocker
+
+Requirements:
+- Keep it brief and professional (1-2 sentences)
+- Match the tone to the comment type
+- Reference realistic work scenarios
+
+Return ONLY the comment text, no formatting or quotes.

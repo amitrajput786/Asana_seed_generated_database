@@ -1,0 +1,13 @@
+Generate a realistic task description for the following task in a B2B SaaS company:
+
+Task Name: {task_name}
+Project Type: {project_type}
+Team: {team_name}
+
+Requirements:
+- Keep it concise (1-3 sentences)
+- Include relevant technical or business context
+- Use professional language
+- {empty_chance}% chance to return empty string
+
+Return ONLY the description text, no formatting or quotes.
